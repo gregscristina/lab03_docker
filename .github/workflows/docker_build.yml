@@ -1,4 +1,4 @@
-ame: Build on DockerHub
+name: Build on DockerHub
 on:
  push:
 env:
