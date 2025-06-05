@@ -23,7 +23,7 @@ jobs:
          context: ./
          push: true
          file: ./Dockerfile
-         tags: gregscristina/webacademy:latest
+         tags: gregscristina/lab03_docker:latest
 
  deploy:
    runs-on: ubuntu-latest
